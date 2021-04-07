@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Lucas Souza</h1>
-<h3 align="center">A passionate full stack developer from Brazil</h3>
+<h1 align="center">Olá 🖖, Sou o Lucas Souza</h1>
+<h3 align="center">Desenvolvedor apaixonado por tecnologia!</h3>
 
-- 🌱 I’m currently learning **JavaScript, Spring Boot**
+- 🔭 Atualmente, Trabalhando como **Desenvolvedor Full Stack**
 
-- 📫 How to reach me **lhenriquesouza00@gmail.com**
+- 🌱 Estou aprendendo **JavaScript e Spring Boot**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-	<a href="https://linkedin.com/in/lucashsouza" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lucashsouza" height="30" width="40" /></a>
-	<a href="https://instagram.com/luska.souza" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="luska.souza" height="30" width="40" /></a>
+- 📫 Contato: **lhenriquesouza00@gmail.com**
+
+<h3 align="left">Redes Sociais:</h3>
+<p align="left"><a href="https://linkedin.com/in/lucashsouza" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lucashsouza" height="30" width="40" /></a><a href="https://instagram.com/luska.souza" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="luska.souza" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Linguagens, Tecnoloias, Ferramentas:</h3> 
 <p align="left">	
 	<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 	<a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
