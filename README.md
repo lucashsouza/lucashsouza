@@ -31,9 +31,9 @@
 		<img align="center" height=30 width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/>
 		<img align="center" height=30 width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg"/>
 		<img align="center" height=30 width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/>
-</div>
-
-<div align="center" style="margin-top: 2%">
+	</div>
+<br/>
+<div align="center">
 	<a href="https://github.com/lucashsouza">
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucashsouza&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucashsouza&layout=compact&langs_count=7&theme=react"></a>
