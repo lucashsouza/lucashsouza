@@ -2,7 +2,6 @@
 
 - 🚀 Apaixonado por tecnologia, e sempre em busca novos conhecimentos e desafios.
 - 🖥️ Trabalho como **Desenvolvedor Full Stack**
-- 🌱 Estou estudando **Metodologias ágeis (SCRUM) e Spring Framework**
 
 <div align="center" style="margin-top:2%; margin-bottom:2%">
 	<a href="https://wa.me/5511963290171" target="_blank">
