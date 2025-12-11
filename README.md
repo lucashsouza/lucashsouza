@@ -17,7 +17,3 @@
 
 
 <br/>
-<div align="center">
-	<a href="https://github.com/lucashsouza">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucashsouza&layout=compact&langs_count=7&theme=dracula"></a>
-</div>
