@@ -1,4 +1,4 @@
-<h1 align="center">Olá 🖖, Sou o Lucas Souza</h1>
+<h1 align="center">Hello 🖖, I'm Lucas Souza</h1>
 
 <div align="center">
 	<a href="https://wa.me/5511963290171" target="_blank">
@@ -12,8 +12,8 @@
 	</a>
 </div>
 
-- 🚀 Apaixonado por tecnologia, e sempre em busca novos conhecimentos e desafios.
-- 🖥️ Trabalho como **Desenvolvedor Android**
+- 🚀 Passionate about technology, always seeking new knowledge and challenges.
+- 🖥️ I work as an **Android Developer**
 
 
 <br/>
